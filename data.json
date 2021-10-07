@@ -1,0 +1,136 @@
+{
+  "discord": {
+    "people": [
+      "Dperolio",
+      "Creatable",
+      "Ducko",
+      "Bowser",
+      "Zerebos",
+      "Devilbro",
+      "Kyza"
+    ],
+    "mods": [
+      "BetterDiscord",
+      "Goosemod",
+      "Powercord",
+      "Vizality",
+      "Cumcord",
+      "Smartcord",
+      "EnhancedDiscord",
+      "Aliucord",
+      "Bluecord",
+      "Cutthecord"
+    ],
+    "branches": [
+      "Stable",
+      "PTB",
+      "Canary"
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java"
+    ],
+    "phrases": [
+      "%m becomes compatible with Discord %b. %p riots.",
+      "%p forks %m into %m, causing %p to rage quit modding.",
+      "%m's community splits due to %p, much to the dismay of %p.",
+      "%m is not compatible with Discord %b. %p is now using %m.",
+      "%p sees %m as a massive improvement over %m, and %p goes crazy.",
+      "%p rewrites %m in %l, causing massive outrage from %p."
+    ],
+    "replacers": {
+      "%p": "people",
+      "%m": "mods",
+      "%b": "branches",
+      "%l": "languages"
+    }
+  },
+  "iris": {
+    "people": [
+      "IMS",
+      "Coderbot",
+      "Justsnoopy30"
+    ],
+    "branches": [
+      "Stable",
+      "Starline",
+      "without Sodium"
+    ],
+    "languages": [
+      "Java",
+      "Kotlin",
+      "Javascript"
+    ],
+    "platforms": [
+      "Curseforge",
+      "Modrinth"
+    ],
+    "mods": [
+      "Sodium",
+      "Iris",
+      "LambdaBetterGrass"
+    ],
+    "modloaders": [
+      "Fabric",
+      "Forge",
+      "Liteloader",
+      "Rift"
+    ],
+    "standards": [
+      "CTMO",
+      "CTMC",
+      "FRAPI",
+      "Mixin"
+    ],
+    "phrases": [
+      "%p wants to distribute Iris %b officially.",
+      "After %m moved to %pl, %p quit modding in resistance.",
+      "%p wants to create a %ml mod for %s compatibility."
+    ],
+    "replacers": {
+      "%pl": "platforms",
+      "%ml": "modloaders",
+      "%p": "people",
+      "%b": "branches",
+      "%l": "languages",
+      "%m": "mods",
+      "%s": "standards"
+    }
+  },
+  "logicWorld": {
+    "people": [
+      "Jimmy",
+      "ForLoveOfCats",
+      "Red_3D",
+      "Drake",
+      "Broyojo",
+      "Nik",
+      "Sten",
+      "Bobby"
+    ],
+    "updates": [
+      "LWW",
+      "LWT",
+      "LWF"
+    ],
+    "delayReasons": [
+      "unexpected combustion",
+      "the build server died",
+      "the build server caught on fire",
+      "his hard drive failed",
+      "github was down",
+      "unity broke",
+      "he could not finish in time"
+    ],
+    "phrases": [
+      "Jimmy had to delay the release once more because %dr. %p was not pleased."
+    ],
+    "replacers": {
+      "%p": "people",
+      "%dr": "delayReasons",
+      "%u": "updates"
+    }
+  }
+}
