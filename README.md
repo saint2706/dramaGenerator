@@ -1,1 +1,1 @@
-as we all know the community doesn't have enough drama already
+as we all know communties don't have enough drama already
