@@ -20,7 +20,7 @@
     ],
     "mods": [
       "BetterDiscord",
-      "Goosemod",
+      "GooseMod",
       "Powercord",
       "Vizality",
       "Cumcord",
@@ -28,7 +28,7 @@
       "EnhancedDiscord",
       "Aliucord",
       "Bluecord",
-      "Cutthecord",
+      "CutTheCord",
       "Kernel",
       "Polymod"
     ],
@@ -51,7 +51,15 @@
       "Zig",
       "Nim",
       "Vlang",
-      "Go"
+      "Go",
+      "CSS",
+      "Lua",
+      "HTML",
+      "F#",
+      "C#",
+      "C++",
+      "C",
+      "HolyC"
     ],
     "phrases": [
       "%m becomes compatible with %b. %p riots.",
