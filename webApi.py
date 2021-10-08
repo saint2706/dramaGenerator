@@ -1,8 +1,10 @@
 from quart import Quart, request, url_for, redirect, send_file
+from quart_cors import cors, route_cors
 import requests
 import localApi as generator
 
 app = Quart(__name__)
+app = cors(app, allow_origin="*")
 
 @app.route('/')
 async def index():

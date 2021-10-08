@@ -1,3 +1,4 @@
 requests
 quart
 hypercorn
+quart-cors
