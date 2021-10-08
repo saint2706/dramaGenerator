@@ -30,14 +30,14 @@
       "Bluecord",
       "Cutthecord",
       "Kernel",
-      "Lightcord",
       "Polymod"
     ],
     "branches": [
-      "Stable",
-      "PTB",
-      "Canary",
-      "Development"
+      "Discord Stable",
+      "Discord PTB",
+      "Discord Canary",
+      "Discord Development",
+      "Lightcord"
     ],
     "languages": [
       "JavaScript",
@@ -54,10 +54,10 @@
       "Go"
     ],
     "phrases": [
-      "%m becomes compatible with Discord %b. %p riots.",
+      "%m becomes compatible with %b. %p riots.",
       "%p forks %m into %m, causing %p to rage quit modding.",
       "%m's community splits due to %p, much to the dismay of %p.",
-      "%m is not compatible with Discord %b. %p is now using %m.",
+      "%m is not compatible with %b. %p is now using %m.",
       "%m is now compatible with %m. %p commits insanity.",
       "%p sees %m as a massive improvement over %m, and %p goes crazy.",
       "%p rewrites %m in %l, causing massive outrage from %p.",
