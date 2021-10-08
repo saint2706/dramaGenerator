@@ -1,10 +1,10 @@
 {
   "discord": {
     "people": [
-      "Dperolio",
-      "Creatable",
+      "dperolio",
+      "creatable",
       "Ducko",
-      "Bowser",
+      "Bowser65",
       "Zerebos",
       "DevilBro",
       "Kyza",
@@ -13,7 +13,10 @@
       "Phorcys",
       "Thomiz",
       "Strencher",
-      "Tropical"
+      "Tropical",
+      "Smartfridge",
+      "Joe",
+      "aetheryx"
     ],
     "mods": [
       "BetterDiscord",
@@ -26,12 +29,15 @@
       "Aliucord",
       "Bluecord",
       "Cutthecord",
-      "Kernel"
+      "Kernel",
+      "Lightcord",
+      "Polymod"
     ],
     "branches": [
       "Stable",
       "PTB",
-      "Canary"
+      "Canary",
+      "Development"
     ],
     "languages": [
       "JavaScript",
@@ -44,7 +50,8 @@
       "PHP",
       "Zig",
       "Nim",
-      "V"
+      "Vlang",
+      "Go"
     ],
     "phrases": [
       "%m becomes compatible with Discord %b. %p riots.",
@@ -53,8 +60,9 @@
       "%m is not compatible with Discord %b. %p is now using %m.",
       "%p sees %m as a massive improvement over %m, and %p goes crazy.",
       "%p rewrites %m in %l, causing massive outrage from %p.",
-      "%p forks %m, causing massive outrage from %p.",
-      "%p makes a big change to %m, making half of the community switch to %m."
+      "%p makes a big change to %m, making half of the community switch to %m.",
+      "%p gets banned by Discord. The %m community is in shambles.",
+      "%p moves to %m, uprooting a whole community."
     ],
     "replacers": {
       "%p": "people",
