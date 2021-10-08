@@ -120,7 +120,8 @@
     "phrases": [
       "%p wants to distribute Iris %b officially.",
       "After %m moved to %pl, %p quit modding in resistance.",
-      "%p wants to create a %ml mod for %s compatibility."
+      "%p wants to create a %ml mod for %s compatibility.",
+      "%p was demoted in the recent wave. Enragement ensues."
     ],
     "replacers": {
       "%pl": "platforms",
