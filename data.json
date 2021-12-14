@@ -2,6 +2,8 @@
   "discord": {
     "people": [
       "dperolio",
+      "Aspy",
+      "SomeAspy",
       "creatable",
       "Ducko",
       "Bowser65",
@@ -39,7 +41,8 @@
       "Bluecord",
       "CutTheCord",
       "Kernel",
-      "Polymod"
+      "Polymod",
+      "Astra"
     ],
     "branches": [
       "Discord Stable",
@@ -70,7 +73,8 @@
       "C",
       "HolyC",
       "Assembly",
-      "Scratch"
+      "Scratch",
+      "Powershell"
     ],
     "phrases": [
       "%m becomes compatible with %b. %p riots.",
@@ -82,7 +86,8 @@
       "%p rewrites %m in %l, causing massive outrage from %p.",
       "%p makes a big change to %m, making half of the community switch to %m.",
       "%p gets banned by Discord. The %m community is in shambles.",
-      "%p moves to %m, uprooting a whole community."
+      "%p moves to %m, uprooting a whole community.",
+      "%p bans %p, causing them to denounce %m"
     ],
     "replacers": {
       "%p": "people",
