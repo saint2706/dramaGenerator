@@ -1,100 +1,139 @@
 {
   "discord": {
     "people": [
-      "dperolio",
-      "creatable",
-      "Ducko",
-      "Bowser65",
-      "Zerebos",
-      "DevilBro",
-      "Kyza",
-      "Juby",
-      "Smartfridge",
-      "Phorcys",
-      "Thomiz",
-      "Strencher",
-      "Tropical",
-      "Smartfridge",
-      "Joe",
-      "aetheryx",
+      "AAGaming",
+      "A user",
+      "Aetheryx",
       "Alyxia",
+      "Aspy",
       "Beef",
-      "Molten",
-      "Patootie",
-      "xTymon",
-      "DustyAngel47",
+      "Ben",
+      "Blue",
+      "Creatable",
+      "Cynthia",
       "DanKGooGLy",
-      "mugman",
-      "kreato" 
+      "DevilBro",
+      "Dperolio",
+      "Ducko",
+      "DustyAngel47",
+      "Fred",
+      "Hellbound",
+      "Jiiks",
+      "Joe",
+      "Juby",
+      "Kreato",
+      "Kyza",
+      "Lighty",
+      "Molten",
+      "Mugman",
+      "Patootie",
+      "Phorcys",
+      "Pohky",
+      "Pu",
+      "Sepruko",
+      "Smartfridge",
+      "Strencher",
+      "Thomiz",
+      "Tropical",
+      "Ven",
+      "Xinto",
+      "Yellowsink",
+      "Zerebos",
+      "xTymon"
     ],
     "mods": [
-      "BetterDiscord",
-      "GooseMod",
-      "Powercord",
-      "Vizality",
-      "Cumcord",
-      "Smartcord",
-      "EnhancedDiscord",
       "Aliucord",
+      "ArmCord",
+      "Astra",
+      "BeautifulDiscord",
+      "BetterDiscord",
       "Bluecord",
+      "Cumcord",
       "CutTheCord",
+      "DiscordInjections",
+      "EnhancedDiscord",
+      "GooseMod",
       "Kernel",
-      "Polymod"
+      "LegCord",
+      "OpenCord",
+      "PowerCord",
+      "SmartCord",
+      "TreeCord",
+      "Vizality",
+      "ZipCord"
     ],
     "branches": [
-      "Discord Stable",
-      "Discord PTB",
       "Discord Canary",
       "Discord Development",
-      "Lightcord"
+      "Discord PTB",
+      "Discord Stable",
+      "Discord Web",
+      "FossCord",
+      "Lightcord",
+      "Litecord"
     ],
     "languages": [
-      "JavaScript",
-      "TypeScript",
-      "Python",
-      "Java",
-      "Kotlin",
-      "Rust",
-      "Perl",
-      "PHP",
-      "Zig",
-      "Nim",
-      "Vlang",
-      "Go",
-      "CSS",
-      "Lua",
-      "HTML",
-      "F#",
+      "Assembly",
+      "Bash",
+      "BrainFuck",
+      "C",
       "C#",
       "C++",
-      "C",
+      "CSS",
+      "Cobol",
+      "Dart",
+      "F#",
+      "Go",
+      "HTML",
       "HolyC",
-      "Assembly",
-      "Scratch"
+      "Java",
+      "JavaScript",
+      "Julia",
+      "Kotlin",
+      "Lua",
+      "Matlab",
+      "Nim",
+      "Posix SH",
+      "PHP",
+      "Perl",
+      "Powershell",
+      "Python",
+      "R",
+      "Ruby",
+      "Rust",
+      "Scratch",
+      "TypeScript",
+      "Vlang",
+      "Zig"
     ],
     "phrases": [
       "%m becomes compatible with %b. %p riots.",
-      "%p forks %m into %m, causing %p to rage quit modding.",
-      "%m's community splits due to %p, much to the dismay of %p.",
       "%m is not compatible with %b. %p is now using %m.",
       "%m is now compatible with %m. %p commits insanity.",
-      "%p sees %m as a massive improvement over %m, and %p goes crazy.",
-      "%p rewrites %m in %l, causing massive outrage from %p.",
-      "%p makes a big change to %m, making half of the community switch to %m.",
+      "%m's community splits due to %p, much to the dismay of %p.",
+      "%p adds a token logger to their %m plugins. %p loses it.",
+      "%p bans %p, causing them to denounce %m.",
+      "%p forks %m into %m, causing %p to rage quit modding.",
       "%p gets banned by Discord. The %m community is in shambles.",
-      "%p moves to %m, uprooting a whole community."
+      "%p makes a big change to %m, making half of the community switch to %m.",
+      "%p moves to %m, uprooting a whole community.",
+      "%p rewrites %m in %l, causing massive outrage from %p.",
+      "%p sees %m as a massive improvement over %m, and %p goes crazy.",
+      "%p steals code from %m. %p goes to war.",
+      "%p adds obfuscated code to their %m plugins, causing %p to freak out.",
+      "%p pushes troll code to %m. %p cries like a baby."
     ],
     "replacers": {
-      "%p": "people",
-      "%m": "mods",
       "%b": "branches",
-      "%l": "languages"
+      "%l": "languages",
+      "%m": "mods",
+      "%p": "people"
     }
   },
   "iris": {
     "people": [
-      "IMS",
       "Coderbot",
+      "IMS",
       "Justsnoopy30"
     ],
     "branches": [
@@ -104,17 +143,17 @@
     ],
     "languages": [
       "Java",
-      "Kotlin",
-      "Javascript"
+      "Javascript",
+      "Kotlin"
     ],
     "platforms": [
       "Curseforge",
       "Modrinth"
     ],
     "mods": [
-      "Sodium",
       "Iris",
-      "LambdaBetterGrass"
+      "LambdaBetterGrass",
+      "Sodium"
     ],
     "modloaders": [
       "Fabric",
@@ -129,52 +168,52 @@
       "Mixin"
     ],
     "phrases": [
-      "%p wants to distribute Iris %b officially.",
-      "After %m moved to %pl, %p quit modding in resistance.",
       "%p wants to create a %ml mod for %s compatibility.",
-      "%p was demoted in the recent wave. Enragement ensues."
+      "%p wants to distribute Iris %b officially.",
+      "%p was demoted in the recent wave. Enragement ensues.",
+      "After %m moved to %pl, %p quit modding in resistance."
     ],
     "replacers": {
-      "%pl": "platforms",
-      "%ml": "modloaders",
-      "%p": "people",
       "%b": "branches",
       "%l": "languages",
       "%m": "mods",
+      "%ml": "modloaders",
+      "%p": "people",
+      "%pl": "platforms",
       "%s": "standards"
     }
   },
   "logicWorld": {
     "people": [
-      "Jimmy",
-      "ForLoveOfCats",
-      "Red_3D",
-      "Drake",
+      "Bobby",
       "Broyojo",
+      "Drake",
+      "ForLoveOfCats",
+      "Jimmy",
       "Nik",
-      "Sten",
-      "Bobby"
+      "Red_3D",
+      "Sten"
     ],
     "updates": [
-      "LWW",
+      "LWF",
       "LWT",
-      "LWF"
+      "LWW"
     ],
     "delayReasons": [
-      "unexpected combustion",
-      "the build server died",
-      "the build server caught on fire",
-      "his hard drive failed",
       "github was down",
-      "unity broke",
-      "he could not finish in time"
+      "he could not finish in time",
+      "his hard drive failed",
+      "the build server caught on fire",
+      "the build server died",
+      "unexpected combustion",
+      "unity broke"
     ],
     "phrases": [
       "Jimmy had to delay the release once more because %dr. %p was not pleased."
     ],
     "replacers": {
-      "%p": "people",
       "%dr": "delayReasons",
+      "%p": "people",
       "%u": "updates"
     }
   }
