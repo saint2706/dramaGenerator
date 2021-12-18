@@ -1,4 +1,6 @@
-import random, json, sys
+import json
+import secrets
+import sys
 
 gdb = json.load(open("data.json"))
 
@@ -6,16 +8,23 @@ gdb = json.load(open("data.json"))
 def fillPhrase(phrase, db):
     phrase = phrase.split(" ")
     for i in range(len(phrase)):
-        word = phrase[i]
         for j in db["replacers"].keys():
             if phrase[i].startswith(j):
-                phrase[i] = phrase[i].replace(j, random.choice(db[db["replacers"][j]]))
-                break
+                replacives = db[db["replacers"][j]]
+                current_phrase = " ".join(phrase)
+                to_replace_with = secrets.choice(replacives)
+                if to_replace_with not in current_phrase:
+                    phrase[i] = phrase[i].replace(j, to_replace_with)
+                    break
+                else:
+                    replacives.remove(to_replace_with)
+                    phrase[i] = phrase[i].replace(j, secrets.choice(replacives))
+                    break
     return " ".join(phrase)
 
 
 def getPhrase(db):
-    return random.choice(db["phrases"])
+    return secrets.choice(db["phrases"])
 
 
 def generateRandomPhrase(community):

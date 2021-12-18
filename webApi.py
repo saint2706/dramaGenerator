@@ -1,6 +1,6 @@
-from quart import Quart, request, url_for, redirect, send_file
-from quart_cors import cors, route_cors
-import requests
+from quart import Quart, redirect, request
+from quart_cors import cors
+
 import localApi as generator
 
 app = Quart(__name__)
