@@ -1,8 +1,8 @@
 {
   "discord": {
     "people": [
-      "AAGaming",
       "A user",
+      "AAGaming",
       "Aetheryx",
       "Alyxia",
       "Aspy",
@@ -16,6 +16,7 @@
       "Dperolio",
       "Ducko",
       "DustyAngel47",
+      "Dziurwa",
       "Fred",
       "Hellbound",
       "Jiiks",
@@ -30,15 +31,22 @@
       "Phorcys",
       "Pohky",
       "Pu",
+      "Saint",
+      "Samm-Cheese",
       "Sepruko",
       "Smartfridge",
       "Strencher",
+      "Swishilicous",
+      "Tasky",
       "Thomiz",
       "Tropical",
+      "Twizzer",
       "Ven",
+      "Void",
       "Xinto",
       "Yellowsink",
       "Zerebos",
+      "Zt",
       "xTymon"
     ],
     "mods": [
@@ -51,7 +59,9 @@
       "Cumcord",
       "CutTheCord",
       "DiscordInjections",
+      "DrDiscord",
       "EnhancedDiscord",
+      "Enmity",
       "GooseMod",
       "Kernel",
       "LegCord",
@@ -69,8 +79,10 @@
       "Discord Stable",
       "Discord Web",
       "FossCord",
+      "GTKcord",
       "Lightcord",
-      "Litecord"
+      "Litecord",
+      "WebCord"
     ],
     "languages": [
       "Assembly",
@@ -112,16 +124,19 @@
       "%m is now compatible with %m. %p commits insanity.",
       "%m's community splits due to %p, much to the dismay of %p.",
       "%p adds a token logger to their %m plugins. %p loses it.",
+      "%p adds obfuscated code to their %m plugins, causing %p to freak out.",
       "%p bans %p, causing them to denounce %m.",
+      "%p blacklists %p's plugins from %m.",
+      "%p doxxes %p.",
       "%p forks %m into %m, causing %p to rage quit modding.",
       "%p gets banned by Discord. The %m community is in shambles.",
       "%p makes a big change to %m, making half of the community switch to %m.",
       "%p moves to %m, uprooting a whole community.",
+      "%p pushes troll code to %m. %p cries like a baby.",
       "%p rewrites %m in %l, causing massive outrage from %p.",
       "%p sees %m as a massive improvement over %m, and %p goes crazy.",
-      "%p steals code from %m. %p goes to war.",
-      "%p adds obfuscated code to their %m plugins, causing %p to freak out.",
-      "%p pushes troll code to %m. %p cries like a baby."
+      "%p starts an anonymous twitter account to harass %m.",
+      "%p steals code from %m. %p goes to war."
     ],
     "replacers": {
       "%b": "branches",
